@@ -186,6 +186,29 @@
 * nao tenha medo de ser chefe
 * SRE (google): https://landing.google.com/sre/book.html
 * https://www.saraiva.com.br/redes-de-computadores-e-a-internet-uma-abordagem-top-down-6-ed-2013-8223157.html
+* https://lsub.org/who/nemo/9.intro.pdf
+* http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.5409&rep=rep1&type=pdf
+* https://www.cs.ox.ac.uk/bill.roscoe/publications/68b.pdf
+* https://www.amazon.com/dp/032157351X/ref=dra_a_cs_lb_hn_it_P3076_100
+* https://pragprog.com/book/tpdsl/language-implementation-patterns
+* https://www.amazon.com/Concepts-Programming-Languages-10th-Edition/dp/0131395319
+* https://www.amazon.com/gp/product/0321712943
+* https://pragprog.com/book/dblegacy/beyond-legacy-code
+* https://www.amazon.com/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/153028175X
+* http://shop.oreilly.com/product/0636920041528.do
+* https://www.amazon.com/dp/0122005503/?tag=devonfir-20
+* https://www.amazon.com/Structured-Design-Fundamentals-Discipline-Computer/dp/0138544719
+* https://www.amazon.com/dp/0961825170
+* https://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321
+* https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098
+* http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf
+* https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+* https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks
+* https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155
+* https://info.thoughtworks.com/building-microservices-book
+* https://www.amazon.com/Heart-Logs-Stream-Processing-Integration-ebook/dp/B00NUGHIU6
+* https://www.amazon.com/gp/product/0596805829
+* 
 
 # Livros lidos
 
