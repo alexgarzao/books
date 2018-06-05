@@ -1,3 +1,7 @@
+# Repos para ver
+
+* https://github.com/katcipis/sophia
+
 # Livros que eu gostaria de ler
 
 [The Clean Coder Professional](http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073)
