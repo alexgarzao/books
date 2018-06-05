@@ -68,6 +68,120 @@
 
 [ReWork](http://37signals.com/rework/)
 
+* Introduction to Algorithms, 3rd Edition.
+* The Pragmatic Programmer: From Journeyman to Master
+* Programming Pearls.
+* The Mythical Man-Month: Essays on Software Engineering. Edição antiga.
+* The Software Craftsman: Professionalism, Pragmatism, Pride
+* https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658
+
+* [Introdução à Arquitetura de Design de Software](https://www.amazon.com.br/gp/product/8535250298/ref=pe_1249790_283347340_em_1p_10_ti)
+
+* [Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science)](https://www.amazon.com/gp/product/0262510871/ref=as_li_tl?ie=UTF8&tag=jasonroell600-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0262510871&linkId=429c040c3b26b32eb2dc162e8c1b850c)
+
+* [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests)
+
+* [Writing Secure Code](https://www.amazon.com/Writing-Secure-Code-Michael-Howard/dp/0735615888/ref=wl_it_dp_o_pC_nS_nC?colid=CKFSPUMPT5T9&coliid=I1ZT4U96JLDJ0O&ie=UTF8)
+
+* [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/gp/product/B00JDMPOK2/ref=as_at/?imprToken=3o.fwTy6RuCOuM3Q9BVWwg&slotNum=43&ie=UTF8&camp=1789&creative=390957&creativeASIN=B00JDMPOK2&linkCode=w61&tag=makithecompsi-20&linkId=YLIZQT4OP6MBEFYG)
+
+* [Reactive Design Patterns](https://www.amazon.com/Reactive-Design-Patterns-Roland-Kuhn/dp/1617291803)
+
+* [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
+
+* [97 Things Every Programmer Should Know: Collective Wisdom from the Experts](https://www.goodreads.com/book/show/7003902-97-things-every-programmer-should-know)
+
+* [The Practice of Programming](https://www.goodreads.com/book/show/1032758.The_Practice_of_Programming)
+
+* [Extreme Programming Explained: Embrace Change](https://www.amazon.com/gp/product/0321278658/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321278658&linkCode=as2&tag=aiop04-20&linkId=UDMSNK5GE3STP5BM)
+
+* Leading Lean Software Development: Results Are not the Point: https://www.amazon.com/gp/product/0321620704/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321620704&linkCode=as2&tag=aiop04-20&linkId=GBUDOERM5MRW6EHF
+
+* Rapid Development: https://www.amazon.com/gp/product/0072850604/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0072850604&linkCode=as2&tag=aiop04-20&linkId=WMENXVNRIZHLNT6I
+
+* Essentials of Programming Languages (MIT Press): https://www.amazon.com/gp/product/0262062798/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262062798&linkCode=as2&tag=aiop04-20&linkId=KHXEZQ7XGBSRQAK2
+
+* The Design of the UNIX Operating System: https://www.amazon.com/gp/product/0132017997/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132017997&linkCode=as2&tag=aiop04-20&linkId=JYQUJ7YTIONCMV3O
+
+* INOVACAO - The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution: https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1503173435&sr=1-1&keywords=The+Innovators:+How+a+Group+of+Hackers,+Geniuses,+and+Geeks+Created+the+Digital+Revolution&linkCode=sl1&tag=coderhood-20&linkId=d517c653443e8754a56a59cca1690dcd
+
+* The Algorithm Design Manual : https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual
+
+* Operating System Concepts: https://www.goodreads.com/book/show/83833.Operating_System_Concepts
+
+* Algorithms: https://www.goodreads.com/book/show/10803540-algorithms
+
+* Types and Programming Languages: https://www.goodreads.com/book/show/112252.Types_and_Programming_Languages
+
+* Rework: https://www.amazon.com/gp/product/0307463745
+
+* Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity: https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898
+
+* How to Design Programs: An Introduction to Programming and Computing: https://www.amazon.com/How-Design-Programs-Introduction-Programming/dp/0262062186/ref=wl_it_dp_o_pdT1_nS_nC?colid=CKFSPUMPT5T9&coliid=I3918K8QCAL8MI&ie=UTF8
+
+* Peopleware: Productive Projects and Teams: https://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439/ref=wl_it_dp_o_pdT1_nS_nC?colid=CKFSPUMPT5T9&coliid=I2YC2DA9EGTOZ4&ie=UTF8
+
+* The Art of Software Testing (Business Data Processing: A Wiley Series): https://www.amazon.com/The-Software-Testing-Glenford-Myers/dp/0471043281/ref=wl_it_dp_o_pC_nS_nC?colid=CKFSPUMPT5T9&coliid=I2446YX5J7CK3C&ie=UTF8
+
+* Beautiful Code: Leading Programmers Explain How They Think (Theory in Practice (O'Reilly)): https://www.amazon.com/Beautiful-Code-Leading-Programmers-Practice/dp/0596510047/ref=wl_it_dp_o_pdT1_nS_nC?colid=CKFSPUMPT5T9&coliid=IF3A1E4JQO3F&ie=UTF8
+
+* Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter): https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/?tag=codihorr-20
+
+* The Design of Everyday Things: Revised and Expanded Edition: https://www.amazon.com/dp/0465050654/?tag=codihorr-20
+
+* Implementing Domain-Driven Design: https://www.amazon.com.br/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=e0fbe60b-02ad-4473-acaa-adee21816509
+
+* Building Microservices: Designing Fine-Grained Systems: https://www.amazon.com/_/dp/1491950358?tag=oreilly20-20
+
+* Scrum: The Art of Doing Twice the Work in Half the Time: https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X/ref=as_li_ss_tl?_encoding=UTF8&qid=1503173060&sr=8-1&linkCode=sl1&tag=coderhood-20&linkId=311783c29ba7203a60a4c237d76212ce
+
+* Software Engineering: A Practitioner's Approach 8th Edition - https://www.amazon.com/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126/ref=sr_1_1?s=books&ie=UTF8&qid=1523644064&sr=1-1&keywords=Software+Engineering+A+Practitioner%27s+Approach&dpID=51LTQpJLHjL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch
+
+* Testing Computer Software, 2nd Edition: https://www.amazon.com/gp/product/0471358460/ref=as_at/?imprToken=3o.fwTy6RuCOuM3Q9BVWwg&slotNum=33&ie=UTF8&camp=1789&creative=390957&creativeASIN=0471358460&linkCode=w61&tag=makithecompsi-20&linkId=P376HSKN3AK7NKOI
+
+* Refactoring to Patterns: https://www.amazon.com/gp/product/0321213351/ref=as_at/?imprToken=3o.fwTy6RuCOuM3Q9BVWwg&slotNum=37&ie=UTF8&camp=1789&creative=390957&creativeASIN=0321213351&linkCode=w61&tag=makithecompsi-20&linkId=TIS57GQXK42INOR3
+
+* Soft Skills: The software developer's life manual: https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_3?ie=UTF8&qid=1523645031&sr=8-3&keywords=soft+skills&dpID=51WiLueukSL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch
+
+* The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life): https://www.amazon.com/gp/product/1934356344/ref=as_at/?imprToken=3o.fwTy6RuCOuM3Q9BVWwg&slotNum=39&ie=UTF8&camp=1789&creative=390957&creativeASIN=1934356344&linkCode=w61&tag=makithecompsi-20&linkId=UMUZQ6J567EVOVAV
+
+* Head First Design Patterns: A Brain-Friendly Guide: https://www.amazon.com/gp/product/0596007124/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596007124&linkCode=as2&tag=softwareyoga-20&linkId=6EN6QYLGGL25CS4Z
+
+* Coders at Work: Reflections on the Craft of Programming: https://www.amazon.com/gp/product/1430219483/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430219483&linkCode=as2&tag=jwoagisofdev-20&linkId=SFRZQRRNWIX5FGFF
+
+* Agile Software Development, Principles, Patterns, and Practices: https://www.amazon.com/gp/product/0135974445/ref=as_at?imprToken=hhU.tb7ngVTCt6LwI8U79w&slotNum=2&ie=UTF8&tag=best-architecture-books-20&linkCode=w61&camp=1789&creative=9325&creativeASIN=0135974445
+
+
+* essa lista de arq sw (14 em especial): https://dev.to/apium_hub/top-19-software-architecture-books-blf
+
+* https://www.amazon.com.br/Extreme-Programming-Explained-Embrace-Change/dp/0321278658?tag=kns00-20&ascsubtag=e0fbe60b-02ad-4473-acaa-adee21816509
+
+* https://www.amazon.com.br/Java-Performance-Definitive-Guide-Getting-ebook/dp/B00JLTOZVQ/ref=pd_sim_351_5?_encoding=UTF8&psc=1&refRID=Q2TTFJF6C9XB6ZJKEYZH
+
+* https://www.amazon.com.br/Game-Programming-Patterns-Robert-Nystrom/dp/0990582906
+
+* Sobre arq sw (retirados daqui http://javarevisited.blogspot.com.br/2018/02/5-must-read-books-to-become-software-architect-solution.html?m=1#ixzz5AF8r54Ji):
+  * https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/?tag=javamysqlanta-20
+  * https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734?tag=javamysqlanta-20
+  * https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164?tag=javamysqlanta-20
+  * https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/?tag=javamysqlanta-20
+  * https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/?tag=javamysqlanta-20
+
+* https://www.amazon.com.br/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y
+
+* Rework
+
+* release it, second edition
+* Just Enough Software Architecture, George Fairbanks
+* https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577
+* https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420
+* https://leanpub.com/introducing_eventstorming
+* entendendo algoritmos aditya
+* Os deuses astronautas
+* dores alma
+* nao tenha medo de ser chefe
+* SRE (google): https://landing.google.com/sre/book.html
+* https://www.saraiva.com.br/redes-de-computadores-e-a-internet-uma-abordagem-top-down-6-ed-2013-8223157.html
 
 # Livros lidos
 
